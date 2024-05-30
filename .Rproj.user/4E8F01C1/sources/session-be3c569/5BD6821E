@@ -1,12 +1,12 @@
 {
-    "id": "D82211C3",
+    "id": "5BD6821E",
     "path": "C:/Users/Wajid-PC/Desktop/Wajidiqbal1.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1717061010730.0,
+    "dirty": false,
+    "created": 1717063766791.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "74:0",
+        "rmdVisualModeLocation": "42:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717063468,
+    "lastKnownWriteTime": 1717063693,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717063511762,
+    "last_content_update": 1717063693,
     "read_only": false,
     "read_only_alternatives": []
 }
